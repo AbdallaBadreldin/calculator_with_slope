@@ -1,0 +1,10 @@
+C:\Documents and Settings\XPPRESP3\Local Settings\Application Data\Temporary Projects\عبدالله بدر الدين على\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPPRESP3\Local Settings\Application Data\Temporary Projects\عبدالله بدر الدين على\obj\Debug\عبدالله_بدر_الدين_على.Form1.resources
+C:\Documents and Settings\XPPRESP3\Local Settings\Application Data\Temporary Projects\عبدالله بدر الدين على\obj\Debug\عبدالله_بدر_الدين_على.Resources.resources
+C:\Documents and Settings\XPPRESP3\Local Settings\Application Data\Temporary Projects\عبدالله بدر الدين على\obj\Debug\عبدالله بدر الدين على.vbproj.GenerateResource.Cache
+C:\Documents and Settings\XPPRESP3\Local Settings\Application Data\Temporary Projects\عبدالله بدر الدين على\bin\Debug\عبدالله بدر الدين على.exe
+C:\Documents and Settings\XPPRESP3\Local Settings\Application Data\Temporary Projects\عبدالله بدر الدين على\bin\Debug\عبدالله بدر الدين على.pdb
+C:\Documents and Settings\XPPRESP3\Local Settings\Application Data\Temporary Projects\عبدالله بدر الدين على\bin\Debug\عبدالله بدر الدين على.xml
+C:\Documents and Settings\XPPRESP3\Local Settings\Application Data\Temporary Projects\عبدالله بدر الدين على\obj\Debug\عبدالله بدر الدين على.exe
+C:\Documents and Settings\XPPRESP3\Local Settings\Application Data\Temporary Projects\عبدالله بدر الدين على\obj\Debug\عبدالله بدر الدين على.xml
+C:\Documents and Settings\XPPRESP3\Local Settings\Application Data\Temporary Projects\عبدالله بدر الدين على\obj\Debug\عبدالله بدر الدين على.pdb
